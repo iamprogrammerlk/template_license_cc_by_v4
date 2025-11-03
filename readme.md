@@ -109,6 +109,7 @@ and be bound by the terms of the [Contributor License Agreement][contributor_lic
 # ⚖️ License
 
 This work is distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)][license] License.
+
 See [license][license_md] for more information.
 
 ### Permissions
